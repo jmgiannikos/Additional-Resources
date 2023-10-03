@@ -7,10 +7,6 @@ Additional images displaying results for the paper "Blind Robotic Grasp Stabilit
 
 Example of a grasp performed during the dataset generation process. On the left is the Franka Emika robot arm grasping a digital camera. On the right is the tactile feedback of the two DIGIT sensors mounted on the fingers of the robot.
 
-## Objects
-
-![]()
-
 ## Tactile Feedback Examples
 The following are examples of tactile sensor radings of both successful and unsuccessful grasps of each of the six objects.
 
