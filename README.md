@@ -3,3 +3,4 @@ Additional images displaying results for the paper "Blind Robotic Grasp Stabilit
 
 ## Dataset Generation Example
 
+![Robot arm grasping a camera](https://github.com/jmgiannikos/Additional-Resources/blob/main/grasp_interaction_camera_example.png)
